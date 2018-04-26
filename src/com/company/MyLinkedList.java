@@ -69,6 +69,8 @@ public class MyLinkedList implements NodeList {
 //        return true;
 //    }
 
+    //test
+
 @Override
 public boolean addItem(Object newObject) {
     ListItem newItem = new Node(newObject);
